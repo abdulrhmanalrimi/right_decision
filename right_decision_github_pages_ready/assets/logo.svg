@@ -1,0 +1,34 @@
+<svg width="720" height="240" viewBox="0 0 720 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B2E5F"/>
+      <stop offset="1" stop-color="#164E8B"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A8F24"/>
+      <stop offset="1" stop-color="#37B638"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <circle cx="105" cy="104" r="70" fill="white"/>
+    <path d="M105 28v16M105 164v16M29 104h16M165 104h16M51 50l12 12M147 146l12 12M159 50l-12 12M63 146l-12 12" stroke="#0B2E5F" stroke-width="14" stroke-linecap="round"/>
+    <path d="M57 136a64 64 0 1 1 105-68" stroke="#0B2E5F" stroke-width="12" stroke-linecap="round"/>
+    <path d="M69 127a50 50 0 1 1 83-53" stroke="#F28C18" stroke-width="6" stroke-linecap="round"/>
+    <path d="M71 101l28 28 64-72" stroke="url(#green)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M165 119h52M174 140h44M181 99h40" stroke="#0B2E5F" stroke-width="8" stroke-linecap="round"/>
+    <path d="M217 119h44M218 140h32M221 99h48" stroke="#1A8F24" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="264" cy="119" r="8" fill="white" stroke="#1A8F24" stroke-width="6"/>
+    <circle cx="252" cy="140" r="8" fill="white" stroke="#F28C18" stroke-width="6"/>
+    <circle cx="272" cy="99" r="8" fill="white" stroke="#0B2E5F" stroke-width="6"/>
+    <path d="M205 74l18-18v12h34v12h-34v12z" fill="#1A8F24"/>
+    <rect x="211" y="91" width="9" height="18" rx="2" fill="#1A8F24"/>
+    <rect x="226" y="83" width="9" height="26" rx="2" fill="#1A8F24"/>
+    <rect x="241" y="75" width="9" height="34" rx="2" fill="#1A8F24"/>
+  </g>
+  <text x="690" y="92" direction="rtl" text-anchor="end" font-family="Tahoma, Arial, sans-serif" font-size="48" font-weight="800" fill="#0B2E5F">مكتب القرار الصحيح</text>
+  <text x="690" y="137" direction="rtl" text-anchor="end" font-family="Tahoma, Arial, sans-serif" font-size="28" font-weight="700" fill="#1A8F24">لأنظمة التحكم والطاقة</text>
+  <text x="690" y="178" text-anchor="end" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#0B2E5F">Right Decision Control &amp; Energy Systems</text>
+</svg>
